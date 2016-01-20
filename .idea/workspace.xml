@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="489a9d15-b8af-4611-ac47-ac54f0a1fd0c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/pjp/cw7_1.class" afterPath="$PROJECT_DIR$/out/production/pjp/cw7_1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/pjp/cw7_2.class" afterPath="$PROJECT_DIR$/out/production/pjp/cw7_2.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/cw7_1.groovy" afterPath="$PROJECT_DIR$/src/cw7_1.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/cw7_2.groovy" afterPath="$PROJECT_DIR$/src/cw7_2.groovy" />
     </list>
     <ignored path="first.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -94,7 +93,7 @@
         <entry file="file://$PROJECT_DIR$/src/cw6_2.groovy">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="36" column="16" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
+              <caret line="48" column="1" selection-start-line="24" selection-start-column="0" selection-end-line="48" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -110,21 +109,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cw7_2.groovy" pinned="false" current-in-tab="false">
+      <file leaf-file-name="cw7_2.groovy" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/cw7_2.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="0.36408567">
               <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cw7_1.groovy" pinned="false" current-in-tab="true">
+      <file leaf-file-name="cw7_1.groovy" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cw7_1.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.39209226">
-              <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="57" column="9" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -157,8 +156,8 @@
         <option value="$PROJECT_DIR$/src/Cw2_3.groovy" />
         <option value="$PROJECT_DIR$/src/cw2_4.groovy" />
         <option value="$PROJECT_DIR$/src/cw7_3.groovy" />
-        <option value="$PROJECT_DIR$/src/cw7_2.groovy" />
         <option value="$PROJECT_DIR$/src/cw6_2.groovy" />
+        <option value="$PROJECT_DIR$/src/cw7_2.groovy" />
         <option value="$PROJECT_DIR$/src/cw7_1.groovy" />
       </list>
     </option>
@@ -726,9 +725,9 @@
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="Groovy.cw7_1 (1)" />
         <item index="1" class="java.lang.String" itemvalue="Groovy.cw7_2" />
-        <item index="2" class="java.lang.String" itemvalue="Groovy.cw7_1" />
-        <item index="3" class="java.lang.String" itemvalue="Groovy.cw2_4" />
-        <item index="4" class="java.lang.String" itemvalue="Groovy.cw6_2" />
+        <item index="2" class="java.lang.String" itemvalue="Groovy.cw6_2" />
+        <item index="3" class="java.lang.String" itemvalue="Groovy.cw7_1" />
+        <item index="4" class="java.lang.String" itemvalue="Groovy.cw2_4" />
       </list>
     </recent_temporary>
   </component>
@@ -747,12 +746,19 @@
       <workItem from="1453162791980" duration="61000" />
       <workItem from="1453209381611" duration="7845000" />
       <workItem from="1453240584884" duration="2541000" />
-      <workItem from="1453313491845" duration="14919000" />
+      <workItem from="1453313491845" duration="16740000" />
     </task>
+    <task id="LOCAL-00001" summary="Zadanie 71&#10;">
+      <created>1453328541484</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1453328541484</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37932000" />
+    <option name="totallyTimeSpent" value="39753000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -793,6 +799,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Zadanie 71&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Zadanie 71&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1163,22 +1173,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cw7_3.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cw7_2.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Cw2_3.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1197,18 +1191,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/cw7_3.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/cw6_2.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="36" column="16" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
+          <caret line="48" column="1" selection-start-line="24" selection-start-column="0" selection-end-line="48" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cw7_1.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39209226">
-          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="57" column="9" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cw7_2.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36408567">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
           <folding />
         </state>
       </provider>
