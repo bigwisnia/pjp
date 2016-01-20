@@ -1,20 +1,19 @@
-import static javax.swing.JOptionPane.showInputDialog
+import javax.swing.JOptionPane
+
+
 
 /**
  * Created by Ola on 2016-01-19.
  */
 
-List apply (List l, Closure c){
-    l = l.collect(c)
-    return l
-}
-def closure = {it * 2 }
-List input = []
-while (input << showInputDialog('Podaj ciąg liczb', 'np: 1 2 3 4').tokenize(" ")) {
+def convertToInt = { int i = it }
+def type = { it.class }
+def increment = { ++it }
 
-    println input
-    input = input.collect(closure)
-    println apply(input, closure)
-
+def getData(param, Closure closure) {
+    param.tokenize(' ').collect(closure)
 }
 
+while (input = JOptionPane.showInputDialog('Podaj liczby lub słowa:', '')) {
+    println getData(input, type)
+}
