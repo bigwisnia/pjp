@@ -1,0 +1,10 @@
+rosol 2,91
+
+woda 1,21
+
+ciastko 3,64
+
+ciasto 7,28
+
+schabowy 14,81
+

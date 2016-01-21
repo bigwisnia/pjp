@@ -1,0 +1,5 @@
+rosol 12
+woda 5
+ciastko 15
+ciasto 30
+schabowy 61
