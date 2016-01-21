@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="489a9d15-b8af-4611-ac47-ac54f0a1fd0c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cw6_3.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/pjp/cw7_1.class" afterPath="$PROJECT_DIR$/out/production/pjp/cw7_1.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/cw6_3.groovy" afterPath="$PROJECT_DIR$/src/cw6_3.groovy" />
     </list>
     <ignored path="first.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -60,9 +59,11 @@
       <file leaf-file-name="cw6_3.groovy" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/cw6_3.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.83196044">
-              <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-              <folding />
+            <state vertical-scroll-proportion="0.64415157">
+              <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+              <folding>
+                <element signature="e#2#42#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -713,7 +714,7 @@
       <workItem from="1453162791980" duration="61000" />
       <workItem from="1453209381611" duration="7845000" />
       <workItem from="1453240584884" duration="2541000" />
-      <workItem from="1453313491845" duration="21480000" />
+      <workItem from="1453313491845" duration="23227000" />
     </task>
     <task id="LOCAL-00001" summary="Zadanie 71&#10;">
       <created>1453328541484</created>
@@ -733,11 +734,17 @@
       <option name="project" value="LOCAL" />
       <updated>1453330524908</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Zadanie 76_3 cos lipa &#10;">
+      <created>1453335612148</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1453335612148</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44493000" />
+    <option name="totallyTimeSpent" value="46240000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -782,7 +789,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Zadanie 71&#10;" />
     <MESSAGE value="Zadanie 71 gotowe&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Zadanie 71 gotowe&#10;" />
+    <MESSAGE value="Zadanie 76_3 cos lipa &#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Zadanie 76_3 cos lipa &#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1191,9 +1199,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cw6_3.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.83196044">
-          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.64415157">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding>
+            <element signature="e#2#42#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
