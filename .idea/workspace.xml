@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="489a9d15-b8af-4611-ac47-ac54f0a1fd0c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cw6_4.groovy" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="first.iws" />
@@ -49,20 +50,18 @@
         <entry file="file://$PROJECT_DIR$/src/cw7_2.groovy">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="15" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cw6_3.groovy" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/cw6_3.groovy">
+      <file leaf-file-name="cw6_4.groovy" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/cw6_4.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.64415157">
-              <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-              <folding>
-                <element signature="e#2#42#0" expanded="false" />
-              </folding>
+            <state vertical-scroll-proportion="0.22405271">
+              <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -108,6 +107,7 @@
         <option value="$PROJECT_DIR$/src/cw7_2.groovy" />
         <option value="$PROJECT_DIR$/src/cw7_1.groovy" />
         <option value="$PROJECT_DIR$/src/cw6_3.groovy" />
+        <option value="$PROJECT_DIR$/src/cw6_4.groovy" />
       </list>
     </option>
   </component>
@@ -216,19 +216,10 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/Ola/IdeaProjects/first/src/cw7_3.groovy" />
   </component>
-  <component name="RunManager" selected="Groovy.cw6_3">
+  <component name="RunManager" selected="Groovy.cw6_4">
     <configuration default="false" name="cw6_2" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
       <module name="pjp" />
       <setting name="path" value="file://$PROJECT_DIR$/src/cw6_2.groovy" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workDir" value="file://$PROJECT_DIR$/src" />
-      <setting name="debug" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="cw7_1" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
-      <module name="pjp" />
-      <setting name="path" value="file://$PROJECT_DIR$/src/cw7_3.groovy" />
       <setting name="vmparams" value="" />
       <setting name="params" value="" />
       <setting name="workDir" value="file://$PROJECT_DIR$/src" />
@@ -256,6 +247,15 @@
     <configuration default="false" name="cw6_3" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
       <module name="pjp" />
       <setting name="path" value="file://$PROJECT_DIR$/src/cw6_3.groovy" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$/src" />
+      <setting name="debug" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="cw6_4" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+      <module name="pjp" />
+      <setting name="path" value="file://$PROJECT_DIR$/src/cw6_4.groovy" />
       <setting name="vmparams" value="" />
       <setting name="params" value="" />
       <setting name="workDir" value="file://$PROJECT_DIR$/src" />
@@ -683,18 +683,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Groovy.cw6_2" />
-      <item index="1" class="java.lang.String" itemvalue="Groovy.cw7_1" />
-      <item index="2" class="java.lang.String" itemvalue="Groovy.cw7_2" />
-      <item index="3" class="java.lang.String" itemvalue="Groovy.cw7_1 (1)" />
-      <item index="4" class="java.lang.String" itemvalue="Groovy.cw6_3" />
+      <item index="1" class="java.lang.String" itemvalue="Groovy.cw7_2" />
+      <item index="2" class="java.lang.String" itemvalue="Groovy.cw7_1 (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Groovy.cw6_3" />
+      <item index="4" class="java.lang.String" itemvalue="Groovy.cw6_4" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Groovy.cw6_3" />
-        <item index="1" class="java.lang.String" itemvalue="Groovy.cw7_1 (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Groovy.cw7_2" />
-        <item index="3" class="java.lang.String" itemvalue="Groovy.cw6_2" />
-        <item index="4" class="java.lang.String" itemvalue="Groovy.cw7_1" />
+        <item index="0" class="java.lang.String" itemvalue="Groovy.cw6_4" />
+        <item index="1" class="java.lang.String" itemvalue="Groovy.cw7_2" />
+        <item index="2" class="java.lang.String" itemvalue="Groovy.cw6_3" />
+        <item index="3" class="java.lang.String" itemvalue="Groovy.cw7_1 (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Groovy.cw6_2" />
       </list>
     </recent_temporary>
   </component>
@@ -713,7 +713,7 @@
       <workItem from="1453162791980" duration="61000" />
       <workItem from="1453209381611" duration="7845000" />
       <workItem from="1453240584884" duration="2541000" />
-      <workItem from="1453313491845" duration="23239000" />
+      <workItem from="1453313491845" duration="24523000" />
     </task>
     <task id="LOCAL-00001" summary="Zadanie 71&#10;">
       <created>1453328541484</created>
@@ -745,11 +745,17 @@
       <option name="project" value="LOCAL" />
       <updated>1453337349922</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Zadanie 6_3 done&#10;">
+      <created>1453337372515</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1453337372515</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46252000" />
+    <option name="totallyTimeSpent" value="47536000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -795,7 +801,8 @@
     <MESSAGE value="Zadanie 71&#10;" />
     <MESSAGE value="Zadanie 71 gotowe&#10;" />
     <MESSAGE value="Zadanie 76_3 cos lipa &#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Zadanie 76_3 cos lipa &#10;" />
+    <MESSAGE value="Zadanie 6_3 done&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Zadanie 6_3 done&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -806,14 +813,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/cw6_2.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/cw1_4.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1170,14 +1169,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cw7_1.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="57" column="9" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Cw2_3.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1194,21 +1185,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cw7_2.groovy">
+    <entry file="file://$PROJECT_DIR$/src/cw7_1.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+          <caret line="57" column="9" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cw6_3.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.64415157">
-          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.42009884">
+          <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
           <folding>
             <element signature="e#2#42#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cw7_2.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="15" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cw6_4.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22405271">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+          <folding />
         </state>
       </provider>
     </entry>
