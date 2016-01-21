@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="489a9d15-b8af-4611-ac47-ac54f0a1fd0c" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/cw6_3.groovy" afterPath="$PROJECT_DIR$/src/cw6_3.groovy" />
     </list>
     <ignored path="first.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -714,7 +713,7 @@
       <workItem from="1453162791980" duration="61000" />
       <workItem from="1453209381611" duration="7845000" />
       <workItem from="1453240584884" duration="2541000" />
-      <workItem from="1453313491845" duration="23227000" />
+      <workItem from="1453313491845" duration="23239000" />
     </task>
     <task id="LOCAL-00001" summary="Zadanie 71&#10;">
       <created>1453328541484</created>
@@ -740,11 +739,17 @@
       <option name="project" value="LOCAL" />
       <updated>1453335612148</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Zadanie 76_3 cos lipa &#10;">
+      <created>1453337349922</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1453337349922</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46240000" />
+    <option name="totallyTimeSpent" value="46252000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
