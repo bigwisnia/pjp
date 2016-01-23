@@ -2,21 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="489a9d15-b8af-4611-ac47-ac54f0a1fd0c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/trampoline.groovy" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/pjp/cw2_4$_run_closure1.class" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/pjp/cw2_4$_run_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/pjp/cw2_4$_run_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/pjp/cw6_4$_bMatch_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/pjp/cw6_4$_bMatch_closure2.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/pjp/cw2_4.class" afterPath="$PROJECT_DIR$/out/production/pjp/cw2_4.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/pjp/cw6_4.class" afterPath="$PROJECT_DIR$/out/production/pjp/cw6_4.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/cw1_4.groovy" afterPath="$PROJECT_DIR$/src/cw1_4.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/cw2_2.groovy" afterPath="$PROJECT_DIR$/src/cw2_2.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/cw2_4.groovy" afterPath="$PROJECT_DIR$/src/cw2_4.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/cw6_2.groovy" afterPath="$PROJECT_DIR$/src/cw6_2.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/cw6_3.groovy" afterPath="$PROJECT_DIR$/src/cw6_3.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/cw7_2.groovy" afterPath="$PROJECT_DIR$/src/cw7_2.groovy" />
     </list>
     <ignored path="first.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -755,7 +745,7 @@
       <workItem from="1453240584884" duration="2541000" />
       <workItem from="1453313491845" duration="25328000" />
       <workItem from="1453416339956" duration="1084000" />
-      <workItem from="1453547538939" duration="6187000" />
+      <workItem from="1453547538939" duration="6215000" />
     </task>
     <task id="LOCAL-00001" summary="Zadanie 71&#10;">
       <created>1453328541484</created>
@@ -805,11 +795,17 @@
       <option name="project" value="LOCAL" />
       <updated>1453416454421</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Wersja prawie do oddania&#10;">
+      <created>1453556383960</created>
+      <option name="number" value="00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1453556383960</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55612000" />
+    <option name="totallyTimeSpent" value="55640000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -858,7 +854,8 @@
     <MESSAGE value="Zadanie 6_3 done&#10;" />
     <MESSAGE value="Zadanie 6_4 done&#10;" />
     <MESSAGE value="Dodane pliki tekstowe&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dodane pliki tekstowe&#10;" />
+    <MESSAGE value="Wersja prawie do oddania&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Wersja prawie do oddania&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
