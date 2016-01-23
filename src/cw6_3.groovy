@@ -14,7 +14,7 @@ matcher.each { res << it }
 println res
 
 res.each {e ->
-    def dateParser = new java.text.SimpleDateFormat("yyy-MM-dd")
+    def dateParser = new java.text.SimpleDateFormat("yyyy-MM-dd")
     dateParser.lenient = false
     try{
         def date = dateParser.parse("$e")

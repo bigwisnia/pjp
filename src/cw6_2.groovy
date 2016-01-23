@@ -43,7 +43,7 @@ List temp = []
                 }
 
         }
-        println e + ': ' + temp
+        println e + ' : ' + temp
         projectmap.put("$e", "$temp")
         temp.clear()
 }
